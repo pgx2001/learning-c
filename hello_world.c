@@ -1,3 +1,7 @@
+/*
+ * stdio.h stands for standard input and output.
+ * functions related to input and output and located in stdio.h
+ */
 #include "stdio.h"
 
 /*
